@@ -1,0 +1,9 @@
+name = "frozen-blast-multiplayer"
+type = "javascript"
+
+[env.production]
+name = "frozen-blast-multiplayer"
+route = ""
+workers_dev = true
+
+compatibility_date = "2024-01-01"
